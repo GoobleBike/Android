@@ -1,4 +1,5 @@
 # Android
+LICENSE: CC BY-NC-SA
 Android tools
 GoobleDiagn
 Effettua la richiesta /getall ogni secondo per l'ID=0 e mostra velocità e pendenza con i relativi timestamp
